@@ -136,4 +136,4 @@ Los servicios web de SERNAGEOMIN se encuentran fuera de línea desde diciembre d
 
 ---
 
-**Autor:** Daniel Díaz Santander
+**Autor:** Daniel Díaz Santander https://www.linkedin.com/in/danieldiazsant/?skipRedirect=true
